@@ -32,7 +32,7 @@
     <li><a href="https://github.com/python-pillow/Pillow">Pillow</a></li>
   </ul>
   
-## Configuraçes
+## Configurações
   <ol>
     <li>Instale o Python e todas as bibliotecas necessárias</li>
     <li>Faça o download zip deste repositório</li>
