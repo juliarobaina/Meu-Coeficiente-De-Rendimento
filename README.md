@@ -9,7 +9,7 @@
     <li>Calcular o Coeficiente de Rendimento Atual</li>
     <li>Calcular o Coeficiente de Rendimento até um período determinado</li>
     <li>Simular o Coeficiente de Rendimento com notas digitadas pelo usuário</li>
-  <ul>
+  </ul>
   
 ## Visão Geral
   <p><b>Qual é o meu CR?</b> utiliza o histórico escolar da Universidade Federal Rural do Rio de Janeiro (UFRRJ), gerado pelo Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), para realizar as opções descritas acima.</p>
