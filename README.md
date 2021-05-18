@@ -13,11 +13,6 @@
   
 ## Visão Geral
   <p><b>Qual é o meu CR?</b> utiliza o histórico escolar da Universidade Federal Rural do Rio de Janeiro (UFRRJ), gerado pelo Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA), para realizar as opções descritas acima.</p>
-
-## Sistema Operacional:
-  <ul>
-    <li>Linux</li>
-  </ul>
   
 ## Informações Adicionais
   <ul>
@@ -31,19 +26,6 @@
     <li><a href="https://github.com/numpy/numpy">NumPy</a></li>
     <li><a href="https://github.com/python-pillow/Pillow">Pillow</a></li>
   </ul>
-  
-## Configurações
-  <ol>
-    <li>Instale o Python e todas as bibliotecas necessárias</li>
-    <li>Faça o download zip deste repositório</li>
-    <li>Extraia o arquivo baixado</li>
-    <li>Entre na pasta extraída</li>
-    <li>Com um terminal, execute o arquivo <b>main.py</b>
-      <ul>
-        <li>Exemplo: <code>python main.py</code></li>
-      </ul>
-    </li>
-  </ol>
   
 
 
