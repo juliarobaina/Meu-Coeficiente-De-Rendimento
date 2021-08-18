@@ -26,7 +26,7 @@
     <li>Instalando o Ghostscript
         <ol>
           <li><a href="https://www.ghostscript.com/download/gsdnld.html">Baixe e instale o Ghostscript</a>;</li>
-          <li>Adicione a pasta <em>bin</em> e <em>lib</em>, que estão no diretório de instalação dos arquivos do Ghostscript, na variável <em>Path</em> do sistema Windows.</li>
+          <li>Adicione o caminho da pasta <em>bin</em> e <em>lib</em>, que estão no diretório de instalação dos arquivos do Ghostscript, na variável <em>Path</em> do sistema Windows.</li>
         </ol>
     </li>
     <li>Com o Conda
