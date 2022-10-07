@@ -1,0 +1,4 @@
+camelot-py
+numpy
+Pillow
+opencv-python

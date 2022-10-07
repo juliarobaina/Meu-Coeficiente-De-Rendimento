@@ -20,19 +20,15 @@
     <li><a href="https://github.com/numpy/numpy">NumPy</a>;</li>
     <li><a href="https://github.com/python-pillow/Pillow">Pillow</a>.</li>
   </ul>
+
+  Você pode instala-las através do comando `pip install -r requirements.txt`
   
 ## Há duas formas de utilizar o programa no Windows
   <ul>
     <li>Instalando o Ghostscript
         <ol>
           <li><a href="https://www.ghostscript.com/download/gsdnld.html">Baixe e instale o Ghostscript</a>;</li>
-          <li>Adicione o caminho da pasta <em>bin</em> e <em>lib</em>, que estão no diretório de instalação dos arquivos do Ghostscript, na variável <em>Path</em> do sistema Windows.</li>
-        </ol>
-    </li>
-    <li>Com o Conda
-        <ol>
-          <li><a href="https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html">Baixe e instale o Miniconda ou Anaconda</a>;</li>
-          <li>Baixe as bibliotecas necessárias com o conda.</li>
+          <li>Adicione o caminho da pasta <em>bin</em> e <em>lib</em>, que estão no diretório de instalação dos arquivos do Ghostscript, na variável <em>Path</em> do sistema Windows. Se não souber como fazer isto, veja este artigo de <a href="https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)">como adicionar algo no <i>path</i> do Windows</a>.</li>
         </ol>
     </li>
   </ul>
