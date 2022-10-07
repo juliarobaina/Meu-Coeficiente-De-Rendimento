@@ -23,7 +23,7 @@
 
   Você pode instala-las através do comando `pip install -r requirements.txt`
   
-## Há duas formas de utilizar o programa no Windows
+## Para utilizar o programa no Windows
   <ul>
     <li>Instalando o Ghostscript
         <ol>
